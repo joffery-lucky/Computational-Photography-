@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\common\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\aarect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\box.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\123\Desktop\Project3 1900017872\src\TheNextWeek\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\123\Desktop\Project3 1900017872\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5FE7032F-396B-302F-B393-3C12C5870859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33C3AE7C-AD00-3C3B-90E4-07C3B1714343}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
